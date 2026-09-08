@@ -1,0 +1,19 @@
+# Raw source photos & video (already embedded inside index.html)
+*.JPG
+*.jpg
+*.jpeg
+*.JPEG
+*.png
+*.PNG
+*.MP4
+*.mp4
+*.mov
+*.MOV
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+
+# Vercel / Node (not used by this static site, kept for safety)
+.vercel
+node_modules
